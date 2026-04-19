@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7E6y23pB3To=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeera\\OneDrive\\Desktop\\PLAYGROUND\\fsharp_app\\fsharp_app.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeera\\.nuget\\packages\\fsharp.core\\10.1.202\\fsharp.core.10.1.202.nupkg.sha512"
+  ],
+  "logs": []
+}

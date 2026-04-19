@@ -1,0 +1,15 @@
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\bin\Debug\net10.0\csharp_app.exe
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\bin\Debug\net10.0\csharp_app.deps.json
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\bin\Debug\net10.0\csharp_app.runtimeconfig.json
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\bin\Debug\net10.0\csharp_app.dll
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\bin\Debug\net10.0\csharp_app.pdb
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\csharp_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\csharp_app.AssemblyInfoInputs.cache
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\csharp_app.AssemblyInfo.cs
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\csharp_app.csproj.CoreCompileInputs.cache
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\csharp_app.dll
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\refint\csharp_app.dll
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\csharp_app.pdb
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\csharp_app.genruntimeconfig.cache
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\ref\csharp_app.dll
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\csharp_app\obj\Debug\net10.0\csharp_app.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\bin\Debug\net10.0\vb_app.exe
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\bin\Debug\net10.0\vb_app.deps.json
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\bin\Debug\net10.0\vb_app.runtimeconfig.json
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\bin\Debug\net10.0\vb_app.dll
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\bin\Debug\net10.0\vb_app.pdb
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\vb_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\vb_app.AssemblyInfoInputs.cache
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\vb_app.AssemblyInfo.vb
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\vb_app.vbproj.CoreCompileInputs.cache
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\vb_app.sourcelink.json
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\vb_app.dll
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\refint\vb_app.dll
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\vb_app.pdb
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\vb_app.genruntimeconfig.cache
+C:\Users\zeera\OneDrive\Desktop\PLAYGROUND\vb_app\obj\Debug\net10.0\ref\vb_app.dll
