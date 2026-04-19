@@ -1,4 +1,5 @@
 # Multi-Language Chaos Engine 🔥
+<img src=logo.png>
 
 A completely unnecessary (but fully working) system that runs **a ridiculous number of programming languages at once** on the same input.
 
